@@ -1,4 +1,4 @@
-# PREDICTING-MEDICAL-INSURANCE-COST-OF-BENEFICIARIES
+# Predicting-Medical-Insurance-Cost-of-Beneficiaries
 
 For this project, several machine learning models were tested on the prediction of medical health insurance costs using Pandas and Scikit-Learn.
 
