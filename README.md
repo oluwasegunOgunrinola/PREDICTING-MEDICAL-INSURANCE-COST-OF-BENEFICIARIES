@@ -14,3 +14,5 @@ Remarkably, smokers have higher health insurance rates because they are more sus
 ![](medical_insurance_header.JPG)
 
 In terms of machine learning, this project employed two regressor models—the Decision Tree Regressor and the Random Forest Regressor—to forecast insurance charges. Notably, the Decision Tree Regressor demonstrated remarkable performance, achieving an accuracy rate of 88.2%. The project integrates thorough data analysis with advanced predictive modeling to offer insights into health insurance costs and precise predictions of insurance charge amounts, thereby contributing to a more informed health insurance premium determination by health insurance companies after assessing beneficiaries lifestyle, medical history, BMI, and age.
+
+# Download .ipynb file for the detailed and comprehensive project
